@@ -23,7 +23,6 @@ This project brings that multi-model pipeline natively into NukeX 17, upgrading 
 - [ ] Isolated Python/CUDA inference backend (`sam2`, `matanyone2`) communicating over local IPC/ZeroMQ
 - [ ] NukeX 17 PySide6 Dockable Panel & Viewer Point-Prompt Overlay
 - [ ] Direct `RotoPaint` spline contour extraction (`_curveknob` API)
-- [ ] Optional `.cat` (Cattery) TorchScript packaging for lightweight single-model nodes
 
 ## Author
 Developed by a Senior Feature Film VFX Compositor (30+ years production experience) building practical, artist-driven ML tools for Nuke.
