@@ -29,4 +29,8 @@ This project brings that multi-model pipeline natively into NukeX 17, upgrading 
 Developed by a Senior Feature Film VFX Compositor (30+ years production experience) building practical, artist-driven ML tools for Nuke.
 
 ## License
-Apache-2.0 / MIT (aligned with upstream model weights and dependencies).
+
+The Nuke integration code, PySide6 UI, and IPC wrapper in this repository are distributed under the **MIT License** (see `LICENSE` for details).
+
+> **Third-Party Models & Dependencies:** Upstream inference engines and model weights invoked by this tool (such as [Sammie-Roto 2](https://github.com), SAM 2.1, EfficientTAM, and MatAnyone2) are governed by their respective upstream licenses. Users are responsible for reviewing and complying with individual model license terms (including non-commercial research restrictions on certain matting weights) before deploying them in commercial production.
+
